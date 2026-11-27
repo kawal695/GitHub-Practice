@@ -1,4 +1,4 @@
 # GitHub-Practice
 This repository is for practicing the GitHub Flow.
 
-Adding text to this branch to see how main branch differs from other one. 
+Added text to this branch to see how main branch differs from other one. 
